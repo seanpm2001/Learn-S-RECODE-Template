@@ -35,7 +35,7 @@
 # SRECODE Template source file
 *.srt linguist-detectable=true
 *.srt linguist-documentation=false
-*.srt linguist-language=SRECODE-Template
+*.srt linguist-language=SRecode-Template
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -48,10 +48,6 @@
 *.vtt linguist-detectable=true
 *.vtt linguist-documentation=false
 *.vtt linguist-language=WebVTT
-# SubRip subtitle file
-*.srt linguist-detectable=true
-*.srt linguist-documentation=false
-*.srt linguist-language=SubRip-Text
 # YAML (YAML Ain't Markup Language) document
 # Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
 *.yml linguist-detectable=false
@@ -169,6 +165,6 @@
 
 # File info
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2022, Wednesday, October 19th at 4:08 pm PST)
-# Line count (including blank lines and compiler line): 175
+# File version: 6 (2022, Wednesday, October 19th at 4:12 pm PST)
+# Line count (including blank lines and compiler line): 171
 # End of script
